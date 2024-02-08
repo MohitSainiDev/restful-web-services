@@ -15,6 +15,7 @@ public class ErrorDetails {
 	}
 
 	public LocalDateTime getTimestamp() {
+
 		return timestamp;
 	}
 
